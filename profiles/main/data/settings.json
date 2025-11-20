@@ -1,0 +1,97 @@
+{
+	"Laravel.phpEnvironment": "local",
+	"[blade]": {
+		"editor.defaultFormatter": "shufo.vscode-blade-formatter"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"prettier.bracketSameLine": true,
+		"prettier.singleAttributePerLine": false,
+		"prettier.tabWidth": 4,
+		"prettier.useTabs": true
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"prettier.jsxSingleQuote": true,
+		"prettier.semi": false,
+		"prettier.singleQuote": true,
+		"prettier.tabWidth": 4,
+		"prettier.useTabs": true
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+	},
+	"blade.format.enable": true,
+	"bladeFormatter.format.indentSize": 1,
+	"bladeFormatter.format.noMultipleEmptyLines": true,
+	"bladeFormatter.format.sortHtmlAttributes": "code-guide",
+	"bladeFormatter.format.sortTailwindcssClasses": true,
+	"bladeFormatter.format.useTabs": true,
+	"bladeFormatter.format.wrapLineLength": 180,
+	"bladeFormatter.misc.dontShowNewVersionMessage": true,
+	"diffEditor.ignoreTrimWhitespace": true,
+	"editor.detectIndentation": false,
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": false,
+	"editor.lineHeight": 24,
+	"editor.stickyScroll.enabled": false,
+	"editor.suggestSelection": "first",
+	"editor.tabSize": 4,
+	"editor.wordWrap": "on",
+	"explorer.confirmDelete": false,
+	"files.autoSave": "onWindowChange",
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"git.ignoreMissingGitWarning": true,
+	"github.copilot.advanced": {},
+	"github.copilot.enable": {
+		"*": true,
+		"markdown": false,
+		"plaintext": false,
+		"yaml": false
+	},
+	"namespaceResolver.sortNatural": true,
+	"php.validate.executablePath": "C:\\laragon\\bin\\php\\php-8.3.11-Win32-vs16-x64\\php.exe",
+	"phpParameterHint.hintOnlyLine": false,
+	"prettier.tabWidth": 4,
+	"prettier.useEditorConfig": false,
+	"prettier.useTabs": true,
+	"security.promptForLocalFileProtocolHandling": false,
+	"security.workspace.trust.untrustedFiles": "open",
+	"sync.gist": "e07692d0a66350420b83e3ccfb5d821e",
+	"terminal.integrated.defaultProfile.windows": "Command Prompt",
+	"terminal.integrated.suggest.enableExtensionCompletions": true,
+	"terminal.integrated.suggest.enabled": true,
+	"workbench.colorTheme": "Bearded Theme Black & Amethyst",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.startupEditor": "none",
+	"workbench.tree.indent": 20,
+	"git.openRepositoryInParentFolders": "never",
+	"[vue]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"explorer.compactFolders": false,
+	"sync.removeExtensions": true,
+}
