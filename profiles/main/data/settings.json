@@ -64,14 +64,13 @@
 		"yaml": false
 	},
 	"namespaceResolver.sortNatural": true,
-	"php.validate.executablePath": "C:\\laragon\\bin\\php\\php-8.3.11-Win32-vs16-x64\\php.exe",
+	"php.validate.executablePath": "C:\\Program Files\\PhpWebStudy-Data\\app\\php-8.3.27\\php.exe",
 	"phpParameterHint.hintOnlyLine": false,
 	"prettier.tabWidth": 4,
 	"prettier.useEditorConfig": false,
 	"prettier.useTabs": true,
 	"security.promptForLocalFileProtocolHandling": false,
 	"security.workspace.trust.untrustedFiles": "open",
-	"sync.gist": "e07692d0a66350420b83e3ccfb5d821e",
 	"terminal.integrated.defaultProfile.windows": "Command Prompt",
 	"terminal.integrated.suggest.enableExtensionCompletions": true,
 	"terminal.integrated.suggest.enabled": true,
@@ -93,5 +92,24 @@
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"explorer.compactFolders": false,
-	"sync.removeExtensions": true,
+	"files.associations": {
+		"*.module": "php"
+	},
+	"intelephense.files.associations": [
+		"*.php",
+		"*.phtml"
+	],
+	"intelephense.environment.phpVersion": "8.3.27",
+	"chat.disableAIFeatures": false,
+	"chat.agent.enabled": false,
+	"github.copilot.nextEditSuggestions.enabled": true,
+	"editor.linkedEditing": true,
+	"chat.extensionUnification.enabled": false,
+	"bootstrapIntelliSense": {
+		"enable": true,
+		"bsVersion": "5.3.2",
+		"useLocalFile": true,
+		"cssFilePath": "d:/Project/edwindra-laravel/public/assets/css/bootstrap.min.css",
+		"languageSupport": []
+	},
 }
